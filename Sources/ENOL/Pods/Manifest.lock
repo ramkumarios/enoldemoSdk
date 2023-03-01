@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AWSCognito (2.19.1):
+    - AWSCore (= 2.19.1)
+  - AWSCore (2.19.1)
+  - AWSS3 (2.19.1):
+    - AWSCore (= 2.19.1)
+  - GoogleMaps (7.3.0):
+    - GoogleMaps/Maps (= 7.3.0)
+  - GoogleMaps/Base (7.3.0)
+  - GoogleMaps/Maps (7.3.0):
+    - GoogleMaps/Base
+  - GooglePlaces (7.3.0)
+  - IQKeyboardManagerSwift (6.5.11)
+  - SDWebImage (5.15.0):
+    - SDWebImage/Core (= 5.15.0)
+  - SDWebImage/Core (5.15.0)
+  - SKActivityIndicatorView (1.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AWSCognito
+  - AWSCore
+  - AWSS3
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SKActivityIndicatorView (~> 1.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCognito
+    - AWSCore
+    - AWSS3
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SKActivityIndicatorView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AWSCognito: f50de600804941d083af37a7568905f31a774727
+  AWSCore: 55c154ae27efc5c98bdc30a0eeea5a35d10a2ab5
+  AWSS3: 2272253b098d07803af8dd20ce6ce7302bcffb47
+  GoogleMaps: a146f275ee429d14822178c7a841c03366ec92a1
+  GooglePlaces: 0609463845250bbadafa1739938181e54dece439
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  SDWebImage: 9bec4c5cdd9579e1f57104735ee0c37df274d593
+  SKActivityIndicatorView: 81c123380127ad497f9b57cd4d11347e40ab3427
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: ee4edacb6f7234d4404766207aa0beca9fe9827c
+
+COCOAPODS: 1.11.3
